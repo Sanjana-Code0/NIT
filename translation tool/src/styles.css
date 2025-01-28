@@ -1,0 +1,25 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+}
+
+.translated-text {
+  margin-top: 20px;
+}
+
+select {
+  margin-top: 10px;
+  padding: 10px;
+}
